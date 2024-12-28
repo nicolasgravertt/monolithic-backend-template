@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7E+P4uecDVNYpxNvOC7Z9/OghZ6YZXp9kIxwWaNC6IE=",
+  "Source": "monolithicBackend",
+  "BasePath": "_content/monolithicBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
